@@ -21,11 +21,11 @@ A **Python-based console application** that helps users select mobile phones bas
 
 | **Category Selection** | **Gaming Options** | **Device Specifications** |
 |----------------------|------------------|-------------------------|
-| ![Category Selection](screenshots/category.png) | ![Gaming](screenshots/gaming.png) | ![Specifications](screenshots/specs.png) |
+| ![Category Selection](screenshorts/category.png) | ![Gaming](screenshorts/gaming.png) | ![Specifications](screenshorts/specs.png) |
 
 | **Payment Options** | **Card Validation** |
 |-------------------|-------------------|
-| ![Payment](screenshots/payment.png) | ![Card](screenshots/card.png) |
+| ![Payment](screenshorts/payment.png) | ![Card](screenshorts/card.png) |
 
 
 ## 🚀 **How to Run**
